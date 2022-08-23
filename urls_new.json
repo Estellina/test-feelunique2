@@ -1,0 +1,856 @@
+[
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Visibly-Renew-Hand-Cream-SPF20-75ml",
+        "n_reviews": "75",
+        "product_name": "Neutrogena Norwegian Formula Visibly Renew Hand Cream SPF20 75ml",
+        "product_price": "$6.59",
+        "product_mean_rating": "4.55"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Elizabeth-Arden-Eight-Hour-Cream-Intensive-Moisturizing-Hand-Treatment-30ml",
+        "n_reviews": "44",
+        "product_name": "Elizabeth Arden Eight Hour Cream Intensive Moisturizing Hand Treatment 30ml",
+        "product_price": "$13.20",
+        "product_mean_rating": "4.66"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Lemon-Butter-Cuticle-Creme",
+        "n_reviews": "55",
+        "product_name": "Burt’s Bees® Lemon Butter Cuticle Creme 15g",
+        "product_price": "$7.79",
+        "product_mean_rating": "4.87"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neom-Real-Luxury-Hand-and-Body-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "NEOM Real Luxury Hand & Body Lotion 300ml",
+        "product_price": "$26.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Mineral-Hand-Cream-100ml-",
+        "n_reviews": "15",
+        "product_name": "AHAVA Mineral Hand Cream 100ml",
+        "product_price": "$17.28",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/BIODERMA-Atoderm-Hand-and-Nail-Cream-50ml",
+        "n_reviews": "54",
+        "product_name": "BIODERMA Atoderm Hand Cream For Dry Skin 50ml",
+        "product_price": "$3.60",
+        "product_mean_rating": "4.65"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Dr-Hauschka-Travel-Hydrating-Hand-Cream-10ml",
+        "n_reviews": "2",
+        "product_name": "Dr. Hauschka Travel Hydrating Hand Cream 10ml",
+        "product_price": "$3.60",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Cica-Repair-Hand-Mask",
+        "n_reviews": "8",
+        "product_name": "Neutrogena Norwegian Formula Cica-Repair Hand Mask",
+        "product_price": "$3.60",
+        "product_mean_rating": "4.38"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/PRAI-Beauty-Ageless-Hand-Creme-Day-and-Night-Duo",
+        "n_reviews": null,
+        "product_name": "PRAI Beauty Ageless Hand Crème Day and Night Duo",
+        "product_price": "$30.66",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/This-works-Stress-Check-Kind-Hands-250ml",
+        "n_reviews": "117",
+        "product_name": "this works Stress Check Kind Hands 250ml",
+        "product_price": "$15.30",
+        "product_mean_rating": "4.81"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Sukin-Hand-and-Nail-Cream-500ml",
+        "n_reviews": "5",
+        "product_name": "Sukin Hand & Nail Cream 500ml",
+        "product_price": "$14.34",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Eucerin-Hyaluron-Filler-Elasticity-Hand-Cream-75ml",
+        "n_reviews": "66",
+        "product_name": "Eucerin Hyaluron Filler Elasticity Hand Cream 75ml",
+        "product_price": "$15.60",
+        "product_mean_rating": "4.42"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Perfect-Nights-Sleep-Hand-Balm-100ml",
+        "n_reviews": "3",
+        "product_name": "NEOM Perfect Night's Sleep Hand Balm 100ml",
+        "product_price": "$25.20",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Embryolisse-Cicalisse-Balm-40g",
+        "n_reviews": "1",
+        "product_name": "Embryolisse Cicalisse Balm 40g",
+        "product_price": "$27.59",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AMELIORATE-Hand-Treatment-75ml",
+        "n_reviews": "10",
+        "product_name": "AMELIORATE Hand Treatment 75ml",
+        "product_price": "$14.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/PRAI-Beauty-Ageless-Hand-and-Neck-Duo",
+        "n_reviews": "3",
+        "product_name": "PRAI Beauty Ageless Hand and Neck Duo",
+        "product_price": "$36.42",
+        "product_mean_rating": "4.33"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Organics-London-Calming-Hand-Balm-30ml",
+        "n_reviews": "7",
+        "product_name": "NEOM Organics London Calming Hand Balm 30ml",
+        "product_price": "$12.00",
+        "product_mean_rating": "4.71"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-Trade-Routes-Halfeti-Body-and-Hand-Lotion-300ml",
+        "n_reviews": "2",
+        "product_name": "Penhaligon's Trade Routes Halfeti Body & Hand Lotion 300ml",
+        "product_price": "$50.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-Luna-Body-and-Hand-Lotion-300ml-",
+        "n_reviews": "2",
+        "product_name": "Penhaligon's Luna Body & Hand Lotion 300ml",
+        "product_price": "$50.40",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Elemis-SpaHome-Pro-Radiance-Hand-and-Nail-Cream-100ml",
+        "n_reviews": "22",
+        "product_name": "ELEMIS Sp@Home Pro-Radiance Hand and Nail Cream 100ml",
+        "product_price": "$27.84",
+        "product_mean_rating": "4.59"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Laura-Mercier-Creme-Brulee-Hand-Creme-50ml",
+        "n_reviews": "8",
+        "product_name": "Laura Mercier Crème Brulee Hand Crème 50ml",
+        "product_price": "$19.38",
+        "product_mean_rating": "4.88"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Dr-Hauschka-Hand-Cream-50g",
+        "n_reviews": "21",
+        "product_name": "Dr. Hauschka Hydrating Hand Cream 50ml",
+        "product_price": "$12.96",
+        "product_mean_rating": "4.38"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Margaret-Dabbs-Intensive-Hydrating-Hand-Lotion-75ml",
+        "n_reviews": "13",
+        "product_name": "Margaret Dabbs London Intensive Hydrating Hand Lotion 75ml",
+        "product_price": "$16.80",
+        "product_mean_rating": "4.15"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Aveeno-Skin-Relief-Moisturising-Hand-Cream-75ml",
+        "n_reviews": "92",
+        "product_name": "Aveeno Skin Relief Moisturising Hand Cream 75ml",
+        "product_price": "$7.19",
+        "product_mean_rating": "4.49"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Hemp-Hand-Cream-with-Hemp-Seed-Oil-for-Dry-Skin-70g",
+        "n_reviews": "6",
+        "product_name": "Burt’s Bees® Hemp Hand Cream with Hemp Seed Oil for Dry Skin 70g",
+        "product_price": "$11.99",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Urban-Apothecary-Oriental-Noir-Hand-and-Body-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "Urban Apothecary Oriental Noir Hand & Body Lotion 300ml",
+        "product_price": "$28.80",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Aveeno-Daily-Moisturising-Hand-Cream-75ml",
+        "n_reviews": "124",
+        "product_name": "Aveeno Daily Moisturising Hand Cream 75ml",
+        "product_price": "$7.02",
+        "product_mean_rating": "4.76"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Sanctuary-Spa-Signature-Collection-Hand-Cream-75ml",
+        "n_reviews": "11",
+        "product_name": "Sanctuary Spa Signature Collection Hand Cream 75ml",
+        "product_price": "$7.20",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Hand-and-Nail-Cream-75ml",
+        "n_reviews": "10",
+        "product_name": "Neutrogena Norwegian Formula Hand and Nail Cream 75ml",
+        "product_price": "$5.30",
+        "product_mean_rating": "4.7"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Rose-Hand-Cream-125ml",
+        "n_reviews": "107",
+        "product_name": "Jurlique Rose Hand Cream 125ml",
+        "product_price": "$41.28",
+        "product_mean_rating": "4.91"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Nivea-Soft-Moisturising-Cream-For-Face-Hands-And-Body-500ml",
+        "n_reviews": "161",
+        "product_name": "Nivea Soft Moisturising Cream For Face, Hands And Body 500ml",
+        "product_price": "$11.99",
+        "product_mean_rating": "4.66"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Hydro-Boost-Gel-Hand-Cream-75ml",
+        "n_reviews": "34",
+        "product_name": "Neutrogena Hydro Boost Hand Gel Cream 75ml",
+        "product_price": "$6.59",
+        "product_mean_rating": "4.74"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Hello-Sunday-The-One-For-Your-Hands-Hand-Cream-30ml",
+        "n_reviews": "6",
+        "product_name": "Hello Sunday The One For Your Hands Hand Cream 30ml",
+        "product_price": "$8.10",
+        "product_mean_rating": "4.83"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/PRAI-Beauty-Ageless-Hand-Creme-124ml",
+        "n_reviews": null,
+        "product_name": "PRAI Beauty Ageless Hand Crème 124ml",
+        "product_price": "$21.06",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Margaret-Dabbs-London-Pure-Repairing-Hand-Cream-75ml",
+        "n_reviews": "3",
+        "product_name": "Margaret Dabbs London Pure Repairing Hand Cream 75ml",
+        "product_price": "$21.60",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/PRAI-Beauty-Ageless-Hand-Creme-Night-80ml",
+        "n_reviews": null,
+        "product_name": "PRAI Beauty Ageless Hand Crème Night 80ml",
+        "product_price": "$19.14",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Softening-Rose-Hand-Lotion-300ml",
+        "n_reviews": "7",
+        "product_name": "Jurlique Softening Rose Hand Lotion 300ml",
+        "product_price": "$25.92",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Balance-Me-Super-Moisturising-Hand-Cream-100ml-73228",
+        "n_reviews": "14",
+        "product_name": "Balance Me Super Moisturising Hand Cream 100ml",
+        "product_price": "$13.92",
+        "product_mean_rating": "4.79"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Calming-Hand-Balm-100ml",
+        "n_reviews": "2",
+        "product_name": "NEOM Calming Hand Balm 100ml",
+        "product_price": "$25.20",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/JASON-Lavender-Hand-Body-Therapy-250g",
+        "n_reviews": "14",
+        "product_name": "JASON Calming Lavender Pure Natural Hand & Body Lotion 227g",
+        "product_price": "$7.62",
+        "product_mean_rating": "4.71"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/JASON-Cocoa-Butter-Hand-Body-Lotion-227g",
+        "n_reviews": "38",
+        "product_name": "JASON Softening Cocoa Butter Pure Natural Hand & Body Lotion 227g",
+        "product_price": "$7.14",
+        "product_mean_rating": "4.61"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Organics-London-Perfect-Nights-Sleep-Hand-Balm-30ml",
+        "n_reviews": "13",
+        "product_name": "NEOM Organics London Perfect Night's Sleep Hand Balm 30ml",
+        "product_price": "$12.00",
+        "product_mean_rating": "4.69"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Cowshed-Restore-Hand-Cream-300ml",
+        "n_reviews": "6",
+        "product_name": "Cowshed Restore Hand Cream 300ml",
+        "product_price": "$24.00",
+        "product_mean_rating": "4.67"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Probiotic-Hand-Cream-100ml",
+        "n_reviews": "4",
+        "product_name": "AHAVA Probiotic Hand Cream 100ml",
+        "product_price": "$11.88",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Skandinavisk-HAV-Hand-Cream-75ml-120970",
+        "n_reviews": null,
+        "product_name": "Skandinavisk HAV Hand Cream 75ml",
+        "product_price": "$19.20",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/SVR-TOPIALYSE-Hands-50ml",
+        "n_reviews": "12",
+        "product_name": "SVR TOPIALYSE Hands 50ml",
+        "product_price": "$6.00",
+        "product_mean_rating": "4.58"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Complete-Bliss-Hand-and-Body-Lotion-300ml",
+        "n_reviews": "5",
+        "product_name": "NEOM Complete Bliss Hand & Body Lotion 300ml",
+        "product_price": "$26.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Noble-Isle-Rhubarb-Rhubarb-Hand-Lotion-250ml",
+        "n_reviews": "2",
+        "product_name": "Noble Isle Rhubarb Rhubarb Hand Lotion 250ml",
+        "product_price": "$26.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Salcura-Daily-Intensive-Hand-Cream-50ml",
+        "n_reviews": "1",
+        "product_name": "Salcura Daily Intensive Hand Cream 50ml",
+        "product_price": "$13.38",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Smoothing-Hand-Cream-Kale-and-Turmeric-100ml",
+        "n_reviews": "1",
+        "product_name": "AHAVA Smoothing Hand Cream Kale & Turmeric 100ml",
+        "product_price": "$17.28",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Skandinavisk-Y-Hand-Cream-75ml-120967",
+        "n_reviews": "1",
+        "product_name": "Skandinavisk ØY Hand Cream 75ml",
+        "product_price": "$19.20",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Kat-Burki-Hand-Therapy-130ml",
+        "n_reviews": "1",
+        "product_name": "Kat Burki Hand Therapy 130ml",
+        "product_price": "$54.00",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/MOR-Emporium-Classics-Snow-Gardenia-Hand-and-Body-Lotion-500ml",
+        "n_reviews": "4",
+        "product_name": "MOR Emporium Classics Snow Gardenia Hand & Body Lotion 500ml",
+        "product_price": "$19.38",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Skandinavisk-SKOG-Hand-Cream-75ml-120973",
+        "n_reviews": "1",
+        "product_name": "Skandinavisk SKOG Hand Cream 75ml",
+        "product_price": "$19.20",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Aromatherapy-Associates-Hand-Lotion-200ml",
+        "n_reviews": "1",
+        "product_name": "Aromatherapy Associates Hand Lotion 200ml",
+        "product_price": "$14.28",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Bloom-and-Blossom-Hands-Up-Age-Defying-Hand-Cream-50ml",
+        "n_reviews": "33",
+        "product_name": "Bloom and Blossom Hands Up Age-Defying Hand Cream 50ml",
+        "product_price": "$16.20",
+        "product_mean_rating": "4.88"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/MOR-Correspondence-Cyclamen-Tuberose-Hand-Cream-100ml",
+        "n_reviews": "1",
+        "product_name": "MOR Correspondence Cyclamen Tuberose Hand Cream 100ml",
+        "product_price": "$12.24",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Aurelia-London-Aromatic-Repair-and-Brighten-Hand-Cream-75ml",
+        "n_reviews": "89",
+        "product_name": "Aurelia London Aromatic Repair & Brighten Hand Cream 75ml",
+        "product_price": "$21.84",
+        "product_mean_rating": "4.8"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Mineral-Hand-Cream-Spring-Blossom-100ml",
+        "n_reviews": "4",
+        "product_name": "AHAVA Mineral Hand Cream Spring Blossom 100ml",
+        "product_price": "$17.28",
+        "product_mean_rating": "4.75"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Mineral-Hand-Cream-Sea-Kissed-100ml",
+        "n_reviews": "3",
+        "product_name": "AHAVA Mineral Hand Cream Sea-Kissed 100ml",
+        "product_price": "$14.34",
+        "product_mean_rating": "4.67"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Uriage-Thermal-Water-Hand-Cream-50ml",
+        "n_reviews": "8",
+        "product_name": "Uriage Thermal Water Hand Cream 50ml",
+        "product_price": "$5.34",
+        "product_mean_rating": "4.75"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Organics-London-Uplifting-Hand-Balm-30ml",
+        "n_reviews": "5",
+        "product_name": "NEOM Organics London Uplifting Hand Balm 30ml",
+        "product_price": "$12.00",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Sukin-Hand-Nail-Cream-tube-125ml",
+        "n_reviews": "21",
+        "product_name": "Sukin Hand & Nail Cream 125ml",
+        "product_price": "$7.62",
+        "product_mean_rating": "4.57"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/AHAVA-Dermud-Intensive-Hand-Cream-100ml-",
+        "n_reviews": "6",
+        "product_name": "AHAVA Dermud Intensive Hand Cream 100ml",
+        "product_price": "$25.92",
+        "product_mean_rating": "4.5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Margaret-Dabbs-Intensive-Hydrating-Hand-Lotion-200ml",
+        "n_reviews": "21",
+        "product_name": "Margaret Dabbs London Intensive Hydrating Hand Lotion 200ml",
+        "product_price": "$29.88",
+        "product_mean_rating": "4.48"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/MOR-Correspondence-Kashmir-Petals-Hand-Cream-100ml",
+        "n_reviews": "8",
+        "product_name": "MOR Correspondence Kashmir Petals Hand Cream 100ml",
+        "product_price": "$12.24",
+        "product_mean_rating": "4.63"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Lumene-Arctic-Hydra-Care-Arktis-Moisture-and-Relief-Rich-Hand-Cream-30ml",
+        "n_reviews": "20",
+        "product_name": "Lumene Arctic Hydra Care [Arktis] Moisture & Relief Rich Hand Cream 30ml",
+        "product_price": "$9.48",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/MOR-Correspondence-Sencha-Verbena-Hand-Cream-100ml",
+        "n_reviews": "3",
+        "product_name": "MOR Correspondence Sencha Verbena Hand Cream 100ml",
+        "product_price": "$12.24",
+        "product_mean_rating": "4.33"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Margaret-Dabbs-Intensive-Hydrating-Hand-Lotion-45ml",
+        "n_reviews": "13",
+        "product_name": "Margaret Dabbs London Intensive Hydrating Hand Lotion 45ml",
+        "product_price": "$9.60",
+        "product_mean_rating": "4.15"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Jasmine-Hand-Cream-40ml-62457",
+        "n_reviews": "13",
+        "product_name": "Jurlique Jasmine Hand Cream 40ml",
+        "product_price": "$20.16",
+        "product_mean_rating": "4.62"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Uriage-Bariederm-Hand-Cream-50ml",
+        "n_reviews": "1",
+        "product_name": "Uriage Bariéderm Hand Cream 50ml",
+        "product_price": "$6.24",
+        "product_mean_rating": "4"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Trilogy-Ultra-Hydrating-Hand-Cream-75ml",
+        "n_reviews": "6",
+        "product_name": "Trilogy® Ultra Hydrating Hand Cream 75ml",
+        "product_price": "$12.96",
+        "product_mean_rating": "4"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neighbourhood-Botanicals-I-Was-A-Teenage-Hand-Model-Balm-55g",
+        "n_reviews": "5",
+        "product_name": "Neighbourhood Botanicals I Was A Teenage Hand Model Balm 55g",
+        "product_price": "$15.36",
+        "product_mean_rating": "4"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NEOM-Great-Day-Hand-and-Body-Lotion-300ml",
+        "n_reviews": "2",
+        "product_name": "NEOM Great Day Hand & Body Lotion 300ml",
+        "product_price": "$26.40",
+        "product_mean_rating": "4"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Liz-Earle-Orange-Flower-Hand-Repair-150ml",
+        "n_reviews": "222",
+        "product_name": "Liz Earle Orange Flower Hand Repair 150ml",
+        "product_price": "$22.56",
+        "product_mean_rating": "4.72"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Nursem-Caring-Hand-Cream-75ml",
+        "n_reviews": "39",
+        "product_name": "Nursem Caring Hand Cream 75ml",
+        "product_price": "$11.99",
+        "product_mean_rating": "4.44"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Augustinus-Bader-The-Hand-and-Lip-Kit",
+        "n_reviews": null,
+        "product_name": "Augustinus Bader The Hand & Lip Kit",
+        "product_price": "$79.20",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Weleda-Almond-Sensitive-Skin-Hand-Cream-50ml",
+        "n_reviews": "3",
+        "product_name": "Weleda Almond Sensitive Skin Hand Cream 50ml",
+        "product_price": "$12.00",
+        "product_mean_rating": "4.33"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Concentrated-Unscented-Hand-Cream-75ml",
+        "n_reviews": "131",
+        "product_name": "Neutrogena Norwegian Formula Hand Cream Concentrated Unscented 75ml",
+        "product_price": "$5.82",
+        "product_mean_rating": "4.58"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Oskia-Renaissance-Hand-Cream-55ml",
+        "n_reviews": "1",
+        "product_name": "Oskia Renaissance Hand Cream 55ml",
+        "product_price": "$34.80",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Rose-Hand-Cream-40ml",
+        "n_reviews": "80",
+        "product_name": "Jurlique Rose Hand Cream 40ml",
+        "product_price": "$20.16",
+        "product_mean_rating": "4.85"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Urban-Apothecary-Oudh-Geranium-Hand-and-Body-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "Urban Apothecary Oudh Geranium Hand & Body Lotion 300ml",
+        "product_price": "$28.80",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Nursem-Caring-Skin-Fix-50ml",
+        "n_reviews": "32",
+        "product_name": "Nursem Caring Skin Fix 50ml",
+        "product_price": "$17.99",
+        "product_mean_rating": "4.88"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Restoring-Lemon-Geranium-and-Clary-Sage-Hand-Lotion-300ml",
+        "n_reviews": "11",
+        "product_name": "Jurlique Restoring Lemon, Geranium and Clary Sage Hand Lotion 300ml",
+        "product_price": "$25.92",
+        "product_mean_rating": "4.27"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/JASON-Aloe-Vera-84-Hand-Body-Lotion-227g",
+        "n_reviews": "22",
+        "product_name": "JASON Soothing 84% Aloe Vera Pure Natural Hand & Body Lotion 227g",
+        "product_price": "$7.14",
+        "product_mean_rating": "4.77"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Antipodes-Deliverance-Kowhai-Flower-Hand-Cream-75ml",
+        "n_reviews": "12",
+        "product_name": "Antipodes Deliverance Kowhai Flower Hand Cream 75ml",
+        "product_price": "$16.26",
+        "product_mean_rating": "4.75"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Nursem-Caring-Hand-Cream-300ml",
+        "n_reviews": "22",
+        "product_name": "Nursem Caring Hand Cream 300ml",
+        "product_price": "$23.87",
+        "product_mean_rating": "4.73"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Fast-Absorbing-Hand-Cream-75ml",
+        "n_reviews": "207",
+        "product_name": "Neutrogena Norwegian Formula Fast Absorbing Hand Cream 75ml",
+        "product_price": "$5.28",
+        "product_mean_rating": "4.65"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Hand-Cream-with-Shea-Butter-Lavender-and-Honey-283g",
+        "n_reviews": "64",
+        "product_name": "Burt’s Bees® Hand Cream with Shea Butter Lavender & Honey 28.3g",
+        "product_price": "$8.39",
+        "product_mean_rating": "4.66"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/this-works-Perfect-Hands-Intense-Moisture-75ml",
+        "n_reviews": "100",
+        "product_name": "this works Perfect Hands Intense Moisture 75ml",
+        "product_price": "$19.38",
+        "product_mean_rating": "4.65"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Hand-Salve-3oz",
+        "n_reviews": "366",
+        "product_name": "Burt’s Bees® Hand Salve 85g",
+        "product_price": "$13.79",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Laura-Mercier-Almond-Coconut-Hand-Creme-60ml",
+        "n_reviews": "27",
+        "product_name": "Laura Mercier Almond Coconut Hand Crème 60ml",
+        "product_price": "$19.38",
+        "product_mean_rating": "4.63"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Concentrated-Scented-Hand-Cream-75ml",
+        "n_reviews": "120",
+        "product_name": "Neutrogena Norwegian Formula Concentrated Hand Cream 75ml",
+        "product_price": "$5.82",
+        "product_mean_rating": "4.62"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Eucerin-Dry-Skin-Intensive-Hand-Cream-5-Urea-with-Lactate-75ml",
+        "n_reviews": "85",
+        "product_name": "Eucerin Dry Skin Intensive Hand Cream 5% Urea with Lactate 75ml",
+        "product_price": "$10.80",
+        "product_mean_rating": "4.51"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Hand-Cream-Moisturising-Antibacterial-50ml",
+        "n_reviews": "65",
+        "product_name": "Neutrogena® Norwegian Formula Hand Cream Moisturising Antibacterial 50ml",
+        "product_price": "$5.39",
+        "product_mean_rating": "4.52"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Noble-Isle-Whisky-and-Water-Hand-Lotion-250ml",
+        "n_reviews": "3",
+        "product_name": "Noble Isle Whisky & Water Hand Lotion 250ml",
+        "product_price": "$26.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Almond-Beeswax-Hand-Creme-2oz",
+        "n_reviews": "550",
+        "product_name": "Burt’s Bees® Almond Beeswax Hand Creme 55g",
+        "product_price": "$13.19",
+        "product_mean_rating": "4.31"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Antipodes-Joyful-Hand--Body-Cream-120ml-41111",
+        "n_reviews": "4",
+        "product_name": "Antipodes Joyful Hand & Body Cream 120ml",
+        "product_price": "$27.78",
+        "product_mean_rating": "4.25"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Caudalie-The-des-Vignes-Hand-and-Nail-Repairing-Cream-75ml",
+        "n_reviews": "1",
+        "product_name": "Caudalie Thé des Vignes Hand & Nail Repairing Cream 75ml",
+        "product_price": "$8.64",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Mavala-Nailactan-Nail-Nourishing-Cream-15ml",
+        "n_reviews": "12",
+        "product_name": "Mavala Nailactan Nail Nourishing Cream 15ml",
+        "product_price": "$27.12",
+        "product_mean_rating": "4.75"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Augustinus-Bader-The-Hand-Treatment-50ml",
+        "n_reviews": null,
+        "product_name": "Augustinus Bader The Hand Treatment 50ml",
+        "product_price": "$50.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Skandinavisk-FJORD-Hand-Cream-75ml-120975",
+        "n_reviews": null,
+        "product_name": "Skandinavisk FJORD Hand Cream 75ml",
+        "product_price": "$19.20",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Noble-Isle-Tea-Rose-Hand-Lotion-250ml",
+        "n_reviews": null,
+        "product_name": "Noble Isle Tea Rose Hand Lotion 250ml",
+        "product_price": "$26.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Urban-Apothecary-Fig-Tree-Hand-and-Body-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "Urban Apothecary Fig Tree Hand & Body Lotion 300ml",
+        "product_price": "$28.80",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Jurlique-Purely-Age-Defying-Hand-Treatment-100ml",
+        "n_reviews": "5",
+        "product_name": "Jurlique Purely Age-Defying Hand Treatment 100ml",
+        "product_price": "$39.36",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-British-Tales-Artemisia-Body-and-Hand-Lotion-300ml",
+        "n_reviews": "1",
+        "product_name": "Penhaligon's British Tales Artemisia Body & Hand Lotion 300ml",
+        "product_price": "$50.40",
+        "product_mean_rating": "5"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/By-Terry-Baume-De-Rose-La-Creme-Main-75g",
+        "n_reviews": "26",
+        "product_name": "BY TERRY Baume De Rose La Crème Main 75g",
+        "product_price": "$38.40",
+        "product_mean_rating": "4.92"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-British-Tales-Blenheim-Bouquet-Body-and-Hand-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "Penhaligon's British Tales Blenheim Bouquet Body & Hand Lotion 300ml",
+        "product_price": "$50.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/ALGENIST-GENIUS-Liquid-Collagen-Hand-Cream-50ml",
+        "n_reviews": "5",
+        "product_name": "ALGENIST GENIUS Liquid Collagen Hand Cream 50ml",
+        "product_price": "$43.20",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Laura-Mercier-Fresh-Fig-Hand-Creme-60ml",
+        "n_reviews": "10",
+        "product_name": "Laura Mercier Fresh Fig Hand Crème 60ml",
+        "product_price": "$21.66",
+        "product_mean_rating": "4.6"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Ilapothecary-Keep-Calm-Hand-and-Body-Lotion-200ml",
+        "n_reviews": null,
+        "product_name": "ilapothecary Keep Calm Hand & Body Lotion 200ml",
+        "product_price": "$32.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/YOPE-Hand-Cream-Ginger-and-Sandalwood-100ml",
+        "n_reviews": null,
+        "product_name": "YOPE Hand Cream Ginger & Sandalwood 100ml",
+        "product_price": "$5.40",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Beauty-Lab-Plumping-And-Firming-Tripeptide-Collagen-Hand-Mask-100ml",
+        "n_reviews": null,
+        "product_name": "Beauty Lab Plumping And Firming Tripeptide Collagen Hand Mask 100ml",
+        "product_price": "$23.52",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Neutrogena-Norwegian-Formula-Concentrated-Hand-Cream-Unscented-50ml",
+        "n_reviews": null,
+        "product_name": "Neutrogena Norwegian Formula Concentrated Hand Cream Unscented 50ml",
+        "product_price": "$4.43",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Miller-Harris-Tea-Tonique-Hand-Lotion-300ml",
+        "n_reviews": null,
+        "product_name": "Miller Harris Tea Tonique Hand Lotion 300ml",
+        "product_price": "$33.60",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Burts-Bees-Ultimate-Care-Aloe-and-Rice-Milk-Hand-Cream-70.8g",
+        "n_reviews": null,
+        "product_name": "Burt's Bees® Ultimate Care Aloe and Rice Milk Hand Cream 70.8g",
+        "product_price": "$11.99",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/SVR-XERIAL-Cracked-Hand--Foot-Maintenance-Cream-50ml",
+        "n_reviews": "3",
+        "product_name": "SVR XERIAL Cracked Hand + Foot Maintenance Cream 50ml",
+        "product_price": "$12.00",
+        "product_mean_rating": "3"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Uriage-Bariederm-Hand-Cream-50ml-x-2",
+        "n_reviews": "1",
+        "product_name": "Uriage Bariéderm Hand Cream 50ml x 2",
+        "product_price": "$9.48",
+        "product_mean_rating": "3"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-British-Tales-Blenheim-Bouquet-Body-and-Hand-Wash-300ml",
+        "n_reviews": null,
+        "product_name": "Penhaligon's British Tales Blenheim Bouquet Body & Hand Wash 300ml",
+        "product_price": "$45.60",
+        "product_mean_rating": null
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Cowshed-Signature-Hand-Care-Duo",
+        "n_reviews": "15",
+        "product_name": "Cowshed Signature Hand Care Duo",
+        "product_price": "$32.40",
+        "product_mean_rating": "4.93"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/NUXE-Reve-de-Miel-Hand-and-Nail-Cream-Duo",
+        "n_reviews": "21",
+        "product_name": "NUXE Rêve de Miel® Hand and Nail Cream Duo",
+        "product_price": "$10.80",
+        "product_mean_rating": "4.67"
+    },
+    {
+        "product_url": "https://us.feelunique.com/p/Penhaligons-Quercus-Body-and-Hand-Lotion-300ml-",
+        "n_reviews": null,
+        "product_name": "Penhaligon's Quercus Body & Hand Lotion 300ml",
+        "product_price": "$50.40",
+        "product_mean_rating": null
+    }
+]
